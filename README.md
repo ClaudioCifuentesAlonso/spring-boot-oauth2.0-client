@@ -14,7 +14,7 @@ This application uses the following OAuth2.0 dependency to run as client:
 ```
 
 This application has an additional dependency:
-1. This application communicates with a Keycloak Authorization server running on port 8080, here are the instructions to configure it [Keycloak configuration]().
+1. This application communicates with a Keycloak Authorization server running on port 8080, here are the instructions to configure it [Keycloak configuration](https://claudiocifuentes.atlassian.net/l/c/sESWWPFW).
 
 application.properties file:
 ```
